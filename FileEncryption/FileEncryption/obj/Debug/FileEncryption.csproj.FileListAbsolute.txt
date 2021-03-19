@@ -1,0 +1,10 @@
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\bin\Debug\FileEncryption.exe.config
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\bin\Debug\FileEncryption.exe
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\bin\Debug\FileEncryption.pdb
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.csprojAssemblyReference.cache
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.Form1.resources
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.Properties.Resources.resources
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.csproj.GenerateResource.cache
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.csproj.CoreCompileInputs.cache
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.exe
+C:\Users\pan\source\repos\FileEncryption\FileEncryption\obj\Debug\FileEncryption.pdb
